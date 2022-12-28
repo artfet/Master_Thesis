@@ -6,4 +6,4 @@ Motifsearch.py contains the script used for extracting sequences containing a pr
 
 The Seeds directory contains Lists of seqeuences that have been used to build the alignments, which the pHMMs where build from.
 
-The Alignments directoty contains said alignments.
+The Alignments directory contains said alignments.
